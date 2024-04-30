@@ -1,2 +1,2 @@
 # Mycodes
-codes availabla
+codes available
